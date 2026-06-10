@@ -1,0 +1,7 @@
+segment_name,customers,avg_recency,avg_frequency,avg_monetary,avg_sessions,avg_discount,avg_return_rate
+At Risk,77,150.22,1.25,1296.04,3.38,0.21,0.05
+Champions,285,18.93,3.2,2473.55,9.6,0.28,0.07
+Discount Sensitive,326,76.12,1.1,642.06,5.16,0.44,0.07
+Dormant Customers,1036,123.53,0.75,525.59,4.63,0.16,0.04
+High Value But Unhappy,140,46.17,2.44,1976.28,5.1,0.26,0.23
+Loyal Customers,536,62.47,2.52,1858.53,5.44,0.27,0.05

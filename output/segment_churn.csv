@@ -1,0 +1,7 @@
+segment_name,customers,churned,churn_rate
+At Risk,77,67,87.01
+Champions,285,22,7.72
+Discount Sensitive,326,185,56.75
+Dormant Customers,1036,645,62.26
+High Value But Unhappy,140,49,35.0
+Loyal Customers,536,159,29.66
